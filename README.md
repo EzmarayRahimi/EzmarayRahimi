@@ -1,35 +1,26 @@
-# Hi there 👋, I'm Ezmaray Rahimi
+# 👋 Hi, I'm Ezmaray Rahimi
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 💻 Full Stack Developer
 
-## 💻 MERN Stack Developer
+I build modern web applications and enjoy solving problems through technology.
 
-I build modern full-stack web applications using JavaScript technologies.
-
-Currently focusing on:
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
+I am continuously learning and improving my skills by creating real-world projects.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Next.js and advanced React
-- 🛒 Building a real-world MERN E-commerce application
-- 💡 Interested in clean code and scalable applications
-- 📚 Learning by building practical projects
+- 💻 Web Developer interested in modern technologies
+- 🛠 Building full-stack applications
+- 🌱 Learning new tools and improving my development skills
+- 🧠 Interested in clean code, APIs, databases, and software architecture
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode" />
-
 </p>
 
 ---
@@ -38,19 +29,19 @@ Currently focusing on:
 
 ### 🛒 MERN E-Commerce Platform
 
-Full-stack online shopping application built with:
-
-React • Node.js • Express • MongoDB • Tailwind CSS
+A full-stack e-commerce application built with modern web technologies.
 
 Features:
+- Authentication & Authorization
+- JWT Security
+- Product Management
+- Shopping Cart
+- Orders System
+- Reviews
+- Image Upload
 
-✅ Authentication  
-✅ JWT Authorization  
-✅ Product Management  
-✅ Shopping Cart  
-✅ Orders  
-✅ Reviews  
-✅ Image Upload  
+Technologies:
+React • Node.js • Express • MongoDB • Tailwind CSS
 
 ---
 
@@ -58,30 +49,30 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EzmarayRahimi&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=EzmarayRahimi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EzmarayRahimi&theme=tokyonight" />
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzmarayRahimi&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzmarayRahimi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
+## 🔥 Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EzmarayRahimi&theme=tokyonight&hide_border=true" />
+
+---
+
 ## 📚 Currently Learning
 
-```text
-Next.js
-Advanced JavaScript
-System Design
-Software Architecture
+- Advanced JavaScript
+- React
+- Next.js
+- Backend Development
+- Software Architecture
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=EzmarayRahimi&style=flat" />
