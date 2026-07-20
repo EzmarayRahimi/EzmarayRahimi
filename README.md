@@ -3,39 +3,38 @@
 <img src="./banner.png" width="100%" />
 
 </div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6C63FF&height=220&section=header&text=Ezmaray%20Rahimi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<h2>👋 Welcome to my GitHub</h2>
+<h1>👋 Hi, I'm Ezmaray Rahimi</h1>
 
 <h3>
-💻 Full Stack Web Developer | 🚀 Building Real World Projects
+💻 Full Stack Web Developer | Building Modern Web Applications
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Contin+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 
 </div>
-
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I'm a Web Developer passionate about building useful applications.
-- 🌱 Currently improving my skills in modern frontend and backend technologies.
-- 🛒 Building a full-stack E-Commerce platform using the MERN stack.
-- 🧠 Interested in clean code, APIs, databases, and software architecture.
-- 📚 I believe in learning by building real projects.
+I'm a developer who enjoys building modern applications and improving my skills through real-world projects.
+
+- 💻 Focused on Web Development
+- 🛠 Building full-stack applications
+- 🌱 Exploring modern JavaScript technologies
+- 🧠 Interested in clean code, APIs, databases and software architecture
+- 🚀 Learning by creating practical projects
+
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,nextjs&perline=6" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,nextjs,git,github,vscode&perline=6" />
 </p>
 
 
@@ -43,32 +42,35 @@
 
 ## 🌟 Featured Project
 
+<div align="center">
 
-### 🛒 MERN E-Commerce Platform
+## 🛒 MERN E-Commerce Platform
 
-A full-stack online store built with modern web technologies.
+</div>
 
-### Features:
+A full-stack e-commerce application built with modern web technologies.
 
-✅ Authentication & Authorization  
-✅ JWT Security  
+### Features
+
+✅ User Authentication  
+✅ JWT Authorization  
 ✅ Product Management  
 ✅ Shopping Cart  
 ✅ Order System  
-✅ Reviews  
+✅ Reviews System  
 ✅ Image Upload  
 ✅ Admin Features  
+✅ REST API
 
 
-**Technologies:**
+### Technologies
 
 React • Node.js • Express • MongoDB • Tailwind CSS
 
 
 ---
 
-## 📊 GitHub Statistics
-
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -88,8 +90,7 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 
 ---
 
-## 📈 Contribution Graph
-
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -102,9 +103,30 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 
 ## 📚 Currently Learning
 
-```text
-Advanced JavaScript
-React Ecosystem
-Next.js
-Backend Architecture
-Database Design
+- Advanced JavaScript
+- React Ecosystem
+- Next.js
+- Backend Architecture
+- Database Design
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/EzmarayRahimi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
