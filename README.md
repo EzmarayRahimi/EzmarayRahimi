@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./banner.png" width="100%" />
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6C63FF&height=220&section=header&text=Ezmaray%20Rahimi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <h2>👋 Welcome to my GitHub</h2>
