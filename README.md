@@ -1,11 +1,16 @@
+<div align="center">
 
+<img src="./banner.png" width="100%" />
+
+</div>
 <h1 align="center">Hi 👋, I'm Ezmaray Rahimi</h1>
 
 <h3>
 💻 Full Stack Web Developer | Building Modern Web Applications
 </h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Web+Development+%7C+React+%7C+Node.js;Building+Full+Stack+Projects;Learning+and+Improving" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Web+Development+%7C+React+%7C+Node.js;Building+Full+Stack+Projects;Learning+and+Improving" />
+</p>
 ## 🚀 About Me
 
 I'm a Computer Science student interested in web development and building practical projects to improve my skills.
